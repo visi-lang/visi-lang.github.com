@@ -3,7 +3,7 @@ layout: page
 title: visi-lang home page
 
 ---
-{% include JB/setup %}
+{% include setup %}
 
 Hello, world!!
 
