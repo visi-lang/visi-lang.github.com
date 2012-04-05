@@ -1,3 +1,9 @@
-# This is my index page
+---
+layout: page
+title: visi-lang home page
 
-Yay!!
+---
+{% include JB/setup %}
+
+Hello, world!!
+
